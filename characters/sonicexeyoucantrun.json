@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NewPhase2Sonic Left"
+		},
+		{
+			"offsets": [
+				-110,
+				-223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NewPhase2Sonic Right"
+		},
+		{
+			"offsets": [
+				-90,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "NewPhase2Sonic Laugh"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NewPhase2Sonic Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-133
+			],
+			"loop": false,
+			"fps": 31,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NewPhase2Sonic Up"
+		},
+		{
+			"offsets": [
+				-20,
+				-238
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NewPhase2Sonic Down"
+		},
+		{
+			"offsets": [
+				22,
+				-184
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "scream",
+			"indices": [],
+			"name": "NewPhase2Sonic Roar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-183
+			],
+			"anim": "DIE",
+			"fps": 26,
+			"name": "NewPhase2Sonic DIE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/P2MarioAssets",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "sonicexeyoucantrun",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
