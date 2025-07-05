@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"go-go-mario",
+			"nothing",
+			[
+				0,
+				93,
+				253
+			]
+		],
+		[
+			"cb-song",
+			"nothing",
+			[
+				0,
+				93,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "480's Charts",
+	"weekName": "480's Charts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
