@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "disability",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "what in the world are two you doing here ?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop skibidibap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "disability",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "you cant be here without any consequenses!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "disability",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yknow what, i'll make a deal with you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "disability",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "i win, you leave, you win, you leave!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(did dave just tell bf an unfair deal...?)"
+		}
+	]
+}

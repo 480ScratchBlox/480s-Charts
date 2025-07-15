@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AAIdle"
+		},
+		{
+			"offsets": [
+				353,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AALeft"
+		},
+		{
+			"offsets": [
+				340,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AADown"
+		},
+		{
+			"offsets": [
+				337,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AAUp"
+		},
+		{
+			"offsets": [
+				339,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AARight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Disability_Dave",
+	"position": [
+		-270,
+		-450
+	],
+	"healthicon": "disability3poino'",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		35,
+		32
+	],
+	"camera_position": [
+		-20,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
