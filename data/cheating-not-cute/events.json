@@ -1,0 +1,109 @@
+{
+	"song": {
+		"events": [
+			[
+				41967.2131147541,
+				[
+					[
+						"Credits Popup",
+						"Cheating Not Cute",
+						"Cynda & Aadsta"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"white"
+					]
+				],
+				null,
+				""
+			],
+			[
+				63278.6885245901,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"white"
+					]
+				]
+			],
+			[
+				89180.3278688525,
+				[
+					[
+						"Fade UI",
+						"1",
+						"1"
+					],
+					[
+						"Cinematic_Bars",
+						"1",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				110163.93442623,
+				[
+					[
+						"Fade UI",
+						"0",
+						"1"
+					],
+					[
+						"Cinematic_Bars",
+						"2",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						"white"
+					]
+				],
+				null,
+				""
+			],
+			[
+				131147.540983607,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"white"
+					],
+					[
+						"Cinematic_Bars",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				156065.573770492,
+				[
+					[
+						"Cinematic_Bars",
+						"2",
+						""
+					],
+					[
+						"Fade UI",
+						"1",
+						"1a"
+					]
+				],
+				null,
+				""
+			]
+		]
+	}
+}
