@@ -1,0 +1,81 @@
+{
+	"renderType": "sparrow",
+	"version": "1.0.1",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 2,
+	"scale": 1,
+	"name": "dave",
+	"cameraOffsets": [
+		-30,
+		70
+	],
+	"flipX": false,
+	"isPixel": false,
+	"singTime": 6.1,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"id": "dave",
+		"isPixel": false
+	},
+	"assetPath": "characters/dave_sheet",
+	"animations": [
+		{
+			"frameIndices": [],
+			"prefix": "idle",
+			"offsets": [
+				10,
+				-165
+			],
+			"frameRate": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"frameIndices": [],
+			"prefix": "right0",
+			"offsets": [
+				-8,
+				-172
+			],
+			"frameRate": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"frameIndices": [],
+			"prefix": "up0",
+			"offsets": [
+				28,
+				-152
+			],
+			"frameRate": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"frameIndices": [],
+			"prefix": "down0",
+			"offsets": [
+				10,
+				-171
+			],
+			"frameRate": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"frameIndices": [],
+			"prefix": "left0",
+			"offsets": [
+				53,
+				-166
+			],
+			"frameRate": 24,
+			"name": "singLEFT",
+			"looped": false
+		}
+	]
+}
