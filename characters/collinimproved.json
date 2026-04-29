@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-140
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-142
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-143
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-142
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/collinimproved",
+	"position": [
+		-70,
+		-240
+	],
+	"healthicon": "icon-c",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		255
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="collinimproved.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="540" height="960"/>
+	<SubTexture name="down0001" x="640" y="0" width="540" height="960"/>
+	<SubTexture name="down0002" x="1280" y="0" width="540" height="960"/>
+	<SubTexture name="idle0000" x="1920" y="0" width="540" height="960"/>
+	<SubTexture name="idle0001" x="2560" y="0" width="540" height="960"/>
+	<SubTexture name="idle0002" x="3200" y="0" width="540" height="960"/>
+	<SubTexture name="idle0003" x="0" y="1060" width="540" height="960"/>
+	<SubTexture name="idle0004" x="640" y="1060" width="540" height="960"/>
+	<SubTexture name="left0000" x="1280" y="1060" width="540" height="960"/>
+	<SubTexture name="left0001" x="1920" y="1060" width="540" height="960"/>
+	<SubTexture name="left0002" x="2560" y="1060" width="540" height="960"/>
+	<SubTexture name="right0000" x="3200" y="1060" width="540" height="960"/>
+	<SubTexture name="right0001" x="0" y="2120" width="540" height="960"/>
+	<SubTexture name="right0002" x="640" y="2120" width="540" height="960"/>
+	<SubTexture name="up0000" x="1280" y="2120" width="540" height="960"/>
+	<SubTexture name="up0001" x="1920" y="2120" width="540" height="960"/>
+	<SubTexture name="up0002" x="2560" y="2120" width="540" height="960"/>
+</TextureAtlas>
